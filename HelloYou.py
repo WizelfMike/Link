@@ -5,3 +5,5 @@ print("Wie ben jij?")
 Fullname = input()
 
 print("Hello" + " " + Fullname)
+
+# Lol
