@@ -586,7 +586,7 @@ print()
 
 print("Friday came. And it was night-time courtyard day. ")
 print("You asked one of the guards to escort you there, which he did. ")
-print("After arrival you saw some other inmates around a fire. 
+print("After arrival you saw some other inmates around a fire.") 
 print("This fire normal for the occasion. ")
 print("You knew because you could always see the light of the fire on Friday through your barred window.")
 print()
@@ -629,7 +629,7 @@ print()
 input(P)
 print()
 
-print("The first one to speak was a young man, around 21 years old. He stood up and spoke. )
+print("The first one to speak was a young man, around 21 years old. He stood up and spoke.")
 print("“I was apprehended for being near apparent spies. ")
 print("I was simply walking down the street and they grabbed everyone there and interrogated them. ")
 print("However, when they found the spies, they didn’t even let the rest of us go. ")
